@@ -2,9 +2,12 @@
 
 > Adapting IPFS apps and websites for a specific language by translating text and adding locale-specific components
 
-## Lead
+## Maintainer Info
 
-[Marcin Rataj](https://github.com/lidel)
+> [!IMPORTANT]
+> There is no dedicated maintainer at the moment.
+>
+> Bring questions about this project to the [community forum](https://discuss.ipfs.tech/).
 
 
 ## How can I contribute translation for my language?
